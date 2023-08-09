@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="supplier_id" />
+          <option value="product_type" />
+          <option value="uom" />
+          <option value="manufacturer_name" />
+          <option value="manufacturer_part_no" />
+          <option value="unit_price" />
+          <option value="range_price_min" />
+          <option value="range_price_max" />
+          <option value="sla_leadtime" />
+          <option value="incoterms_key" />
+          <option value="incoterms_location" />
+          <option value="incoterms_location_country" />
+          <option value="unspsc_code" />
+          <option value="price_valid_from" />
+          <option value="price_valid_to" />
+          <option value="order_quantity_min" />
+          <option value="order_quantity_max" />
+          <option value="lot_size" />
+          <option value="export_control_status" />
+          <option value="export_control_no" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
